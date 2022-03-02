@@ -7,6 +7,7 @@
   - Please note that this package is currently just a skeleton. Once all of the UGV nodes are developed, this message will be updated and the package will be ready.
   - Currently, the package is under construction. The repo can be used to write all python and c++ codes that do not involve zed dependencies.
   - custom msg for the AMGCP UGV can be found in https://github.com/KMD98/AMGCP/tree/main/ROS_network msg folder
-  - UGV codes can be found in PCTesting2.0 folder of https://github.com/KMD98/AMGCP/tree/main/ROS_network
+  - UGV codes can be found in PCTesting2.0 folder of https://github.com/KMD98/AMGCP/tree/main/ROS_network. Note that this is specifically for pc deployment
+  - UGV navigation stack can be found in the package ros_essentials_cpp at https://github.com/KMD98/AMGCP/tree/main/ROS_jetson/ros_essentials_cpp. Note that this package is to be deployed on jetson nano at PACE Autonomy lab
 # ZED interface catkin package
   - Go to this repository and git clone the zed_ros_interface into your catkin_Ws src folder https://github.com/stereolabs/zed-ros-interfaces/tree/main
